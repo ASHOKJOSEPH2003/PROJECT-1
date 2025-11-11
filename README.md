@@ -81,5 +81,5 @@ All results are stored in `outputs/metrics_per_disease.csv` and visualized throu
 
 Run locally:
 ```bash
-streamlit run app/streamlit_app.py
+streamlit run app.py
 
